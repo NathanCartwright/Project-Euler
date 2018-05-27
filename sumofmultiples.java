@@ -1,5 +1,5 @@
 /*
-Nathan Cartwright
+Nathan Cartwright Project Euler Challenge 1.
 
 This code will find the sum of multiples of 3 and 5 given a list of consecutive integers
 for example.. in a list of numbers 1-10 (not including 10) the multiples of 3 and 5 are 3,5,6,9
